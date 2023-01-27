@@ -2,7 +2,7 @@
 using HarmonyLib;
 using BepInEx.Configuration;
 
-namespace JotunnModStub
+namespace JumpForcePatch
 {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     [BepInDependency(Jotunn.Main.ModGuid)]
